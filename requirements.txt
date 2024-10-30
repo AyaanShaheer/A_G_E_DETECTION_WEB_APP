@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+#dependency file
+
+Flask
+deepface
+opencv-python
+tensorflow
+=======
+#dependency file
+
+Flask
+deepface
+opencv-python
+tensorflow
+>>>>>>> e3476272d6ab6525ac96f924c73c8e6b2d7792d7
